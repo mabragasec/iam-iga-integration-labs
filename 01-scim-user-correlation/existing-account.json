@@ -1,0 +1,25 @@
+{
+  "schemas": [
+    "urn:ietf:params:scim:api:messages:2.0:ListResponse"
+  ],
+  "totalResults": 1,
+  "startIndex": 1,
+  "itemsPerPage": 1,
+  "Resources": [
+    {
+      "schemas": [
+        "urn:ietf:params:scim:schemas:core:2.0:User"
+      ],
+      "id": "a9f1c270",
+      "externalId": "EMP-0084721",
+      "userName": "marcela.braga@example.com",
+      "active": true,
+      "emails": [
+        {
+          "value": "marcela.braga@example.com",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}

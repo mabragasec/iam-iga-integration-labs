@@ -1,0 +1,8 @@
+{
+  "schemas": [
+    "urn:ietf:params:scim:schemas:core:2.0:User"
+  ],
+  "externalId": "84721",
+  "userName": "marcela.braga@example.com",
+  "active": true
+}
